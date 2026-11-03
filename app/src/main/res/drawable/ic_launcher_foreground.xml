@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Campus Building Body -->
+    <!-- Roof / Pediment -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 L79,38 L29,38 Z" />
+    <!-- Entablature -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,40 H79 V43 H29 Z" />
+    <!-- Pillars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,45 H38 V67 H33 Z M44,45 H49 V67 H44 Z M55,45 H60 V67 H55 Z M66,45 H71 V60 H66 Z" />
+    <!-- Base steps -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,69 H62 V73 H27 Z M25,74 H62 V77 H25 Z" />
+    <!-- Care / Resolution Badge -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M70,72 C62.27,72 56,65.73 56,58 C56,50.27 62.27,44 70,44 C77.73,44 84,50.27 84,58 C84,65.73 77.73,72 70,72 Z" />
+    <!-- Checkmark inside Badge -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M66.5,58.5 L63.5,55.5 L61.5,57.5 L66.5,62.5 L78.5,50.5 L76.5,48.5 Z" />
+</vector>

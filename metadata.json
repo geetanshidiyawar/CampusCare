@@ -1,0 +1,6 @@
+{
+  "name": "CampusCare",
+  "description": "Campus Complaint Management System to monitor, manage, and prioritize campus complaints with dynamic urgency scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
